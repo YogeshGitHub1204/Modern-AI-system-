@@ -1,0 +1,6 @@
+{
+  "name": "Modern AI Systems Architecture & Multi-Agent Studio",
+  "description": "Production reference architecture and interactive workbench demonstrating LangGraph multi-agent workflows, local Ollama LLMs, Pinecone vector RAG, real-time tools, and Model Context Protocol (MCP) servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
